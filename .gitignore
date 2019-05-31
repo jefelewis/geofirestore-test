@@ -6,6 +6,6 @@ npm-debug.*
 *.key
 *.mobileprovision
 
-config/
-config/*
-config/config
+# config/
+# config/*
+# config/config
